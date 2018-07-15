@@ -6,7 +6,7 @@
 name: 365 Papers
 
 # Short bio or description (displayed in the header)
-description: 365 Papers — Jordan Matelsky
+description: 365 Papers — Kevin Torgas (design by  Jordan Matelsky)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/693511?v=3&s=460
@@ -18,15 +18,15 @@ avatar: https://avatars0.githubusercontent.com/u/693511?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jordan@matelsky.com
+  email: ktorgas1@jhu.edu
   facebook:
   flickr:
-  github: j6k4m8
+  github: ktorgas
   instagram:
-  linkedin: j6k4m8
+  linkedin:
   pinterest:
-  rss: yes
-  twitter: j6m8
+  rss:
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
