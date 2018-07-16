@@ -71,7 +71,7 @@ kramdown:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
-future: true
+timezone: America/New_York
 
 # Exclude these files from your production _site
 exclude:
